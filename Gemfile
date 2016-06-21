@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'stripe'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
